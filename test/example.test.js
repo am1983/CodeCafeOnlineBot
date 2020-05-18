@@ -11,4 +11,4 @@ describe('Simple Math Test', () => {
   it('should return 9', () => {
     assert.strictEqual(3 * 3, 9);
   });
- });
+});
