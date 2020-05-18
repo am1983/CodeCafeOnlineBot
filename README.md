@@ -1,0 +1,1 @@
+![Node.js CI](https://github.com/am1983/CodeCafeOnlineBot/workflows/Node.js%20CI/badge.svg)
